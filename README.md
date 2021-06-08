@@ -1,7 +1,4 @@
 # Osmuzov
 
 
-| 1 | 2 |
-|--|--|
-| 3 | 4 |
-
+![deku](https://tenor.com/zuiS.gif)
